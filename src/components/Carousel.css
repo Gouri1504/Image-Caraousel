@@ -1,1 +1,41 @@
 /* write your carousel css in this file */
+.bg{
+    width: 80vh; ;
+    height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.right{
+    color: aliceblue;
+}
+.left{
+    color:aliceblue;
+}
+.center{
+    color: black;
+}
+
+.title {
+    background-color: rgb(191, 189, 189);
+    border-radius: 5%;
+    width: max-content;
+    padding: .5vw;
+    font-size: 4vw;
+    margin: auto;
+    margin-bottom: 2vw;
+}
+
+.subtitle{
+    background-color: rgb(191, 189, 189);
+    border-radius: 5%;
+    width: max-content;
+    padding: .5vw;
+    font-size: 2vw;
+    margin: auto;
+    margin-top: 15vw;
+}
+
+
+
